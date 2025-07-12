@@ -5,7 +5,9 @@ __pycache__/
 
 # C extensions
 *.so
-
+# Custom ignores
+config.ini
+temp_visuals/
 # Distribution / packaging
 .Python
 build/
