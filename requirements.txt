@@ -1,0 +1,7 @@
+matplotlib==3.10.3
+protobuf==6.31.1
+python_pptx==1.0.2
+python_thenounproject==1.0.1a1
+pywin32==310
+Requests==2.32.4
+speech_recognition==3.14.3
